@@ -5,7 +5,7 @@ import os
 
 def calcular_et0_diaria(df_meteo, latitud_grados, altitud_metros):
     lat_rad = deg_to_rad(latitud_grados)
-    resultados_et0 =
+    resultados_et0 = []
 
     for index, row in df_meteo.iterrows():
         try:
