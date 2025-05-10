@@ -24,7 +24,8 @@ El objetivo principal de un proyecto real sería estimar la variabilidad espacia
 ## Cómo Ejecutar la Simulación
 1. Clonar el repositorio:
 ```bash
-git clone https://matiasgarroa/proyecto_optimizacion_riego_mendoza.git cd proyecto_optimizacion_riego_mendoza
+git clone https://github.com/matiasgarroa/proyecto_optimizacion_riego_mendoza
+cd proyecto_optimizacion_riego_mendoza
 ```
 2. Crear un entorno virtual e instalar dependencias:
 ```bash
